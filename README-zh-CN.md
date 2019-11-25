@@ -139,7 +139,7 @@
 
 ## 掌握机器学习
 - [ ] [掌握机器学习的方法](http://machinelearningmastery.com/machine-learning-mastery-method/)
-- [ ] [程序员的机器学习](http://machinelearningmastery.com/machine-learning-for-programmers/)
+- [x] [程序员的机器学习](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [掌握并运用机器学习](http://machinelearningmastery.com/start-here/)
 - [ ] [Python机器学习小课程](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [ ] [机器学习算法小课程](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
